@@ -64,7 +64,23 @@ The dataset consists of 705 records and 13 variables, including both numerical a
 <img width="399" height="66" alt="anova" src="https://github.com/user-attachments/assets/0bb0cfce-113a-4844-97b8-4537128e7405" />
 
 
+## Histograms and Conclusions
 
+<img width="454" height="447" alt="histogram_1" src="https://github.com/user-attachments/assets/5d48db70-ee07-4177-836b-ff81997b975a" />
+
+The histogram shows that most students are between **19 and 22 years old**, indicating that the sample mainly corresponds to young university students in the early stages of their studies. The presence of few cases below 18 or above 23 confirms that this is a fairly homogeneous population in terms of age.
+
+<img width="454" height="442" alt="histogram_2" src="https://github.com/user-attachments/assets/14153609-1702-4b69-8470-75b43b8a61dd" />
+
+The distribution shows that most students spend between **4 and 6 hours a day on social media**. However, there are also cases where students spend **more than 7 hours**, suggesting a group of heavy users who may be more vulnerable to the negative effects associated with spending too much time online.
+
+<img width="454" height="440" alt="histogram_3" src="https://github.com/user-attachments/assets/ea9c7c6d-ebee-4846-b937-bca3dc16c646" />
+
+The histogram shows that most students **sleep between 6 and 8 hours**, which is close to the recommended amount for young adults. However, there are cases of **less than 5 hours** of sleep, which may be linked to intensive social media use and represents a possible risk factor for physical and mental health.
+
+<img width="425" height="436" alt="histogram_4" src="https://github.com/user-attachments/assets/7dcc830a-2147-4b50-af75-81c7ea4caec8" />
+
+The distribution shows that a significant number of students score in the **medium to high range for addiction**. This suggests that, although there are students with low levels of dependence, a **considerable proportion exhibit problematic usage behaviors**, which should be taken into account in the overall analysis of the study.
 
 
 
