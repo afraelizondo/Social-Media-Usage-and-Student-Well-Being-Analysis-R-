@@ -55,6 +55,14 @@ The dataset consists of 705 records and 13 variables, including both numerical a
 
 <img width="454" height="257" alt="frequency tables (categorical)4" src="https://github.com/user-attachments/assets/eb20f940-3e68-4f83-be65-147c190548c6" />
 
+### Simple Linear Regression
+
+<img width="454" height="454" alt="simple linear regression" src="https://github.com/user-attachments/assets/dec91208-5c8b-4127-823f-66fab6964d10" />
+
+### ANOVA
+
+<img width="399" height="66" alt="anova" src="https://github.com/user-attachments/assets/0bb0cfce-113a-4844-97b8-4537128e7405" />
+
 
 
 
