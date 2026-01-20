@@ -23,7 +23,7 @@ Data was collected through an online survey conducted during the first quarter o
 ## Dataset description
 The dataset consists of 705 records and 13 variables, including both numerical and categorical data relevant to the analysis of student behavior related to social media usage.
 
-<img width="644" height="295" alt="dataset_description" src="https://github.com/user-attachments/assets/9f639e99-fc1a-492d-b257-59dbca3db14b" />
+<img width="648" height="297" alt="dataset_description" src="https://github.com/user-attachments/assets/c557925a-d5ea-46a3-8894-501ad5985bd0" />
 
 
 ## Technologies Used
