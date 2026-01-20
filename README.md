@@ -32,3 +32,16 @@ The dataset consists of 705 records and 13 variables, including both numerical a
 - **Data Analysis & Manipulation:** tidyverse  
 - **Data Visualization:** ggplot2  
 - **Development Environment:** RStudio
+
+## Data Analysis
+
+### Statistical Summary
+
+<img width="426" height="381" alt="statistical_ summary" src="https://github.com/user-attachments/assets/04c2eb93-0000-40a4-b04c-c4ea442a9ddd" />
+
+### Measures of Central Tendency and Dispersion (Numerical):
+
+<img width="156" height="384" alt="Measures of Central Tendency and Dispersion (Numerical)1" src="https://github.com/user-attachments/assets/6f56cf60-990a-423d-9c1c-b1e7ccec8da5" />
+
+<img width="190" height="386" alt="Measures of Central Tendency and Dispersion (Numerical)2" src="https://github.com/user-attachments/assets/e6add667-4ab4-49c0-a141-51f095f110a8" />
+
